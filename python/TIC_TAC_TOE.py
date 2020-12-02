@@ -10,7 +10,7 @@ def list_board():
 
 
 #Defining a function for player to play the move 
-1def player_move(icon):
+def player_move(icon):
     if icon == "X":
         player_num = "Player 1"
     else:
